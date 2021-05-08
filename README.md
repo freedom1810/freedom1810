@@ -10,7 +10,7 @@
 </p>
 
 <p float="left">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=freedom1810&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="freedom1810" />
+  <img src="https://github-readme-stats.vercel.app/api?username=freedom1810&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="freedom1810" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freedom1810&hide=html,css&layout=compact" />
 </p>
 
