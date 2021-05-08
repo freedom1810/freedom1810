@@ -9,7 +9,10 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freedom1810&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="freedom1810" /></p>
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=freedom1810&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="freedom1810" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freedom1810&hide=html,css&layout=compact" />
+</p>
 
 <!--
 **freedom1810/freedom1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
